@@ -18,10 +18,12 @@ A CLI for zxcvbn ([Dropbox's realistic password strength estimator](https://blog
 
 Visit the [official repository](https://github.com/dropbox/zxcvbn) for more details.
 
+**NOTE**: This version of zxcvbn-cli is a fork. This contains some additional code that you may or may not want. Use at your own risk.
+
 ## Installation
 
 ```
-$ [sudo] npm install -g zxcvbn-cli
+$ [sudo] npm install -g zxcvbn-cli-json
 ```
 
 ## Usage

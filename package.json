@@ -1,7 +1,7 @@
 {
-  "name": "zxcvbn-cli",
-  "version": "1.0.6",
-  "homepage": "https://github.com/gmontalvoriv/zxcvbn-cli",
+  "name": "zxcvbn-cli-json",
+  "version": "1.0.7",
+  "homepage": "https://github.com/laszlof/zxcvbn-cli",
   "description": "A CLI for zxcvbn (Dropbox's realistic password strength estimator).",
   "main": "cli.js",
   "bin": {
@@ -12,10 +12,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gmontalvoriv/zxcvbn-cli"
+    "url": "https://github.com/laszlof/zxcvbn-cli"
   },
   "bugs": {
-    "url": "https://github.com/gmontalvoriv/zxcvbn-cli/issues"
+    "url": "https://github.com/laszlof/zxcvbn-cli/issues"
   },
   "files": [
     "cli.js",
